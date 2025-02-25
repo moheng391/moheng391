@@ -1,6 +1,5 @@
 ## Hi there 👋  my name is ycm 杨超民
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on programming studying
 - 🌱 I’m currently learning Python
